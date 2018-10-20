@@ -1,0 +1,12 @@
+number name val1 val2 val3 val4 val5
+1234567 Jan 5 7 0 6 4
+3526435 Marie 5 5 7 0 0
+2230431 Kees 6 10 0 8 6
+7685433 Andre 4 7 8 7 5
+0364678 Antionette 0 2 8 8 8
+1424354 Jerome 7 9 0 5 0
+4536576 Kamal 8 0 8 7 8
+1256033 Diana 0 0 0 0 0
+5504657 Petra 6 6 7 0 6
+9676575 Malika 0 6 0 0 8
+0253756 Samira 3 8 6 7 10
